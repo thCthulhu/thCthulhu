@@ -2,7 +2,7 @@
 
 <p>📚 I'm currently still learning  how to build websites and apps in school 📚</p>
 <p>💰 I can work on a page request for money (not much money) or for free if it's something smaller 💰</p>
-<p>💬 How to reach me: <b>thcthulhu@gmail.com</b> 💬</p>
+<p>💬 How to reach me: <b><a href="mailto:thcthulhu@gmail.com">thcthulhu@gmail.com</a></b> 💬</p>
 <p>😄 Pronouns: he/him 😄</p>
 
 <!--
