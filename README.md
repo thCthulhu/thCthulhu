@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm thCthulhu 🐙</h1>
+
+<p>📚 I'm currently still learning  how to build websites and apps in school 📚</p>
+<p>💰 I can work on a page request for money (not much money) or for free if it's something smaller 💰</p>
+<p>💬 How to reach me: <b>thcthulhu@gmail.com</b> 💬</p>
+<p>😄 Pronouns: he/him 😄</p>
 
 <!--
 **thCthulhu/thCthulhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
